@@ -1,0 +1,11 @@
+sliding window is a optimized technique o solve problems involving subarrays or substrings it reduces
+time complexity 
+  Working of the sliding window:
+    1]Create a window of a given size.
+    2]Process the elements inside the window.
+    3]Move (slide) the window by one position.
+    4]Remove the outgoing element and add the incoming element.
+    5]Repeat until the end of the array/string.
+
+
+    
